@@ -1,1 +1,4 @@
-# Project_1_Medical_Deserts
+# Project-1---Medical-Deserts
+#Hospital Files-SD has all hospital files\
+#Health-JB has all home healthcare files
+
